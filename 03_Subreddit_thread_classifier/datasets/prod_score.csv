@@ -1,0 +1,2 @@
+model,vectorizer,tn,fp,fn,tp,mean_cv,accuracy,bal_accuracy,misclassification,specificity,sensitivity,precision,roc_auc,params
+nb,cvec,132,14,10,158,0.9426207362377577,0.9235668789808917,0.9223,0.0764,0.9041,0.9405,0.9186,0.98,1.303512244681509
